@@ -5,14 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace HelloWorld
-{ 
+{
 
     class Program
     {
         static void Main(string[] args)
         {
-          
-
+            Console.WriteLine("안녕 세상아");
+            Console.WriteLine("HelloWorld");
+            Console.WriteLine("고니치와 세카이");
         }
+
     }
 }
